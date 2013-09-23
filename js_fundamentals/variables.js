@@ -23,7 +23,7 @@ var jobTitle = "Scuba Instructor";
 // Calculate their 2 possible ages based on the stored values.
 // Output them to the screen like so: "They are either NN or NN", substituting the values.
 
-var currentYear = 2013;
+var currentYear = Date().currentYear;
 var birthYear = 1961;
 var maxAge = (currentYear - birthYear);
 var minAge = (currentYear - birthYear - 1);
