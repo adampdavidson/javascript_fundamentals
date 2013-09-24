@@ -1,4 +1,4 @@
-// Exercises: Functions
+-// Exercises: Functions
 
 // EXERCISE: The Fortune Teller
 
